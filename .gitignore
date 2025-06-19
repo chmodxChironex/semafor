@@ -1,0 +1,6 @@
+*.out
+*.log
+*.o
+proj2
+.vscode/
+.idea/
